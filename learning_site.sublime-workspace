@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"course"
+			],
+			[
+				"ste",
+				"step_detail"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"C",
+				"CourseAdmin"
+			],
+			[
+				"s",
+				"Step"
+			],
+			[
+				"T",
+				"TextField"
+			],
+			[
+				"sta",
+				"statifiles_urlpatterns"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"strip",
+				"stripe_id"
+			],
+			[
+				"str",
+				"stripe_id"
+			],
+			[
+				"user",
+				"user_stripe_account"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"static",
+				"static_only"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"P",
+				"ProfileAdmin"
+			],
+			[
+				"Pr",
+				"Profile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "learning_site/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cc/virtual/treehouseblog/learning_site",
+		"/home/cc/virtual/treehouseblog/learning_site/assets",
+		"/home/cc/virtual/treehouseblog/learning_site/assets/css",
+		"/home/cc/virtual/treehouseblog/learning_site/courses",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/templates",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/templates/courses",
+		"/home/cc/virtual/treehouseblog/learning_site/learning_site",
+		"/home/cc/virtual/treehouseblog/learning_site/templates"
+	],
+	"file_history":
+	[
+		"/home/cc/virtual/treehouseblog/learning_site/assets/css/layout.css",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/models.py",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/tests.py",
+		"/media/cc/ObiWanKenobi/CHITAHA/PYTHON/Django/TeamTreeHouse - Django Basics {TechieAce}/Project Files/Django Basics/s6v4/s6v4/README.txt",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/templates/courses/step_detail.html",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/templates/courses/course_list.html",
+		"/home/cc/virtual/treehouseblog/learning_site/learning_site/urls.py",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/templates/courses/course_detail.html",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/urls.py",
+		"/home/cc/virtual/treehouseblog/learning_site/templates/layout.html",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/views.py",
+		"/home/cc/virtual/treehouseblog/learning_site/courses/admin.py",
+		"/home/cc/virtual/treehouseblog/learning_site/learning_site/settings.py",
+		"/home/cc/virtual/treehouseblog/learning_site/templates/home.html",
+		"/home/cc/virtual/treehouseblog/learning_site/learning_site/views.py",
+		"/home/cc/virtual/treehouseblog/learning_site/manage.py",
+		"/home/cc/virtual/confess/mysite/static/templates/admin/base_site.html",
+		"/home/cc/virtual/confess/mysite/iconfess/views.py",
+		"/home/cc/virtual/confess/mysite/iconfess/forms.py",
+		"/home/cc/virtual/confess/mysite/static/templates/base.html",
+		"/home/cc/virtual/confess/mysite/static/templates/index.html",
+		"/home/cc/virtual/confess/mysite/iconfess/models.py",
+		"/media/cc/ObiWanKenobi/GitHub/django/ecommerce-2-master/src/requirements.txt",
+		"/home/cc/virtual/confess/mysite/mysite/urls.py",
+		"/home/cc/virtual/confess/mysite/static/templates/thanks.html",
+		"/home/cc/virtual/confess/mysite/iconfess/views3.py",
+		"/home/cc/virtual/confess/mysite/static/templates/navbar.html",
+		"/home/cc/virtual/confess/mysite/iconfess/urls.py",
+		"/home/cc/virtual/confess/mysite/mysite/settings.py",
+		"/home/cc/virtual/confess/mysite/iconfess/admin.py",
+		"/home/cc/virtual/confess/mysite/static/templates/confessions.html",
+		"/home/cc/virtual/confess/iconfess/admin.py",
+		"/home/cc/virtual/confess/iconfess/forms.py",
+		"/home/cc/virtual/confess/iconfess/models.py",
+		"/home/cc/virtual/confess/mysite/static/templates/home.html",
+		"/home/cc/virtual/trydjango/src/checkout/views.py",
+		"/home/cc/virtual/trydjango/src/tryDjango/urls.py",
+		"/home/cc/virtual/trydjango/src/profiles/models.py",
+		"/home/cc/Downloads/BuFz7G0tdus.srt",
+		"/home/diedaftgenie/Desktop/trydjango2/trydjango/src/checkout/views.py",
+		"/home/diedaftgenie/Desktop/trydjango2/trydjango/src/profiles/admin.py",
+		"/home/diedaftgenie/Desktop/trydjango2/trydjango/src/profiles/models.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/tryDjango/settings.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/checkout.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/checkout/views.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/tryDjango/urls.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/base.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/profiles/views.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/home.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/profile.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/contact.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/navbar.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/account/signup.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/account/login.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/account/logout.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/profiles/models.py",
+		"/home/diedaftgenie/Desktop/allauthsocial.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/profiles/apps.py",
+		"/home/diedaftgenie/Desktop/trydjango/lib/python2.7/site-packages/allauth/account/apps.py",
+		"/home/diedaftgenie/Desktop/trydjango/lib/python2.7/site-packages/allauth/account/app_settings.py",
+		"/home/diedaftgenie/Desktop/trydjango/lib/python2.7/site-packages/allauth/account/forms.py",
+		"/home/diedaftgenie/Desktop/trydjango/lib/python2.7/site-packages/allauth/account/views.py",
+		"/home/diedaftgenie/Desktop/all.py",
+		"/home/diedaftgenie/Desktop/trydjango/lib/python2.7/site-packages/django_allauth-0.24.1-py2.7.egg-info/SOURCES.txt",
+		"/home/diedaftgenie/Desktop/trydjango/src/contact/views.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/contact/forms.py",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/static/css/main.css",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/about.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/static/templates/untitled.html",
+		"/home/diedaftgenie/Desktop/trydjango/static/home.html",
+		"/home/diedaftgenie/Desktop/trydjango/src/profiles/admin.py",
+		"/home/diedaftgenie/Desktop/DESKTOP/django/tests/absolute_url_overrides/tests.py",
+		"/media/diedaftgenie/ObiWanKenobi/CHITAHA/PYTHON/Django/First simple Blog with django/Important ! Readme.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "learning_site/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "learning_site.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
